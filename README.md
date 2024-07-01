@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dev.rajukumarsingh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LD4dZR1dW9eROww1ntFXnRXWDbAnXgNB/view?usp=drive_link](https://drive.google.com/file/d/1LD4dZR1dW9eROww1ntFXnRXWDbAnXgNB/view?usp=drive_link)
+- 📄 Know about my experiences  [Resume](https://drive.google.com/file/d/1qP58mQ9wTNztGPHrV6Iv3utUvSCgxo4i/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
