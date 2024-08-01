@@ -3,7 +3,7 @@
 >[![]()](https://portfolio-six-lime-79.vercel.app/)
 <h1 align="center">Hi 👋, I'm Raju Kumar</h1>
 <h3 align="center">I enhance my proficiency in emerging technologies through hands-on projects that address challenges I believe have the potential to benefit millions of users.</h3>
-<img align="right" alt="Developer" width="400" src="https://media3.giphy.com/media/06vbLCWUQcDKGFVjPt/giphy.webp?cid=790b7611qp6j7i8ixio281vz7a8ktzt3l70f0srohgg9516d&ep=v1_gifs_search&rid=giphy.webp&ct=g">
+<!-- <img align="right" alt="Developer" width="400" src="https://media3.giphy.com/media/06vbLCWUQcDKGFVjPt/giphy.webp?cid=790b7611qp6j7i8ixio281vz7a8ktzt3l70f0srohgg9516d&ep=v1_gifs_search&rid=giphy.webp&ct=g"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajukumar2003&label=Profile%20views&color=0e75b6&style=flat" alt="rajukumar2003" /> </p>
 
